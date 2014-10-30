@@ -1,2 +1,0 @@
-class FullException < Exception
-end
